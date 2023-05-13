@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">modul4Prak</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama">\n Nama \t : Muhammad Sirozul Umam
+    \n Nim \t\t : 200441100057
+    \n Asal \t\t : Pasuruan</string>
+    <string-array name="daftarNama">
+        <item>Abdullah Ucup</item>
+        <item>Badroll Al Karem</item>
+        <item>Mukidi Plonto</item>
+        <item>Sulaiman Yahya</item>
+        <item>Sholeh Huddin</item>
+        <item>Imam Yahudi</item>
+        <item>Yahudi Tabrani</item>
+        <item>Ahmad Paijo</item>
+        <item>Aldi El Yateemm</item>
+        <item>Taher Budiono</item>
+        <item>Rey Dondooo</item>
+        <item>Rayon Krayon</item>
+    </string-array>
+    <integer-array name="daftarFoto">
+        <item>@drawable/a</item>
+        <item>@drawable/b</item>
+        <item>@drawable/c</item>
+        <item>@drawable/d</item>
+        <item>@drawable/e</item>
+        <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/di</item>
+        <item>@drawable/j</item>
+        <item>@drawable/u</item>
+        <item>@drawable/lgbt</item>
+    </integer-array>
+</resources>
